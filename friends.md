@@ -9,9 +9,9 @@ comments: true
 ---
 
 ### همکلاسی‌ها
-* [علی حسینی](http://alihosseini.github.io)
-* بهداد محمدی
-* حسن داریان
+* [مهداد چراغی](https://mahch40.github.io/)
+* علی میرزاخانی
+* ایلیا جاهد
 
 
 

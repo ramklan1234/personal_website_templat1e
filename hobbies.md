@@ -9,6 +9,7 @@ comments: false
 ---
 
 
-* [BJJ](http://www.bjjheros.com/)
+* chess and reading book
+* "love or money "book
 
 
