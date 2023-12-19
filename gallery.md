@@ -4,8 +4,7 @@ author_profile: true
 permalink: /gallery/
 title: Gallery
 tags: [gallery]
-modified: 9-14-2019
-comments: false
+modified: 12-17-2023
 gallery:
   - url: C:\Users\Ramin\Pictures\Saved Pictures\Maragheh-5-1.jpg
     image_path: C:\Users\Ramin\Pictures\Saved Pictures\Maragheh-5.jpg
