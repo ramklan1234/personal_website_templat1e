@@ -2,9 +2,9 @@
 layout: single
 author_profile: true
 permalink: /friends/
-title: My friends around the world
+title: My friends in my university
 tags: [friends]
-modified: 4-10-2019
+modified: 12-28-2023
 comments: true
 ---
 
@@ -12,6 +12,6 @@ comments: true
 * [مهداد چراغی](https://mahch40.github.io/)
 * علی میرزاخانی
 * ایلیا جاهد
-
+*محمد رضا یوسفی
 
 
