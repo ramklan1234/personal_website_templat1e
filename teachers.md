@@ -1,9 +1,9 @@
 ---
 layout: single
 author_profile: true
-permalink: /freinds/
+permalink: /teachers/
 title: best_teachers
-tags: [freinds]
+tags: [teachers]
 modified: 12-17-2023
 ---
 ### teachers
