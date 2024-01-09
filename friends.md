@@ -11,7 +11,7 @@ comments: true
 ### همکلاسی‌ها
 * [مهداد چراغی](https://mahch40.github.io/)
 * علی میرزاخانی 
-* ایلیا جاهد(https://ilyajahed.github.io/)
+* [ایلیا جاهد](https://ilyajahed.github.io/)
 
 
 
