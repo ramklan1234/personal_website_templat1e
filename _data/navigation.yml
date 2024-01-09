@@ -8,6 +8,8 @@ main:
     url: /friends/
   - title: "Links"
     url: /links/
+  - title: "teachers"  
+    url: /teachers/
   - title: "Hobbies"
     url: /hobbies/  
   - title: "Gallery"
