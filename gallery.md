@@ -4,12 +4,12 @@ author_profile: true
 permalink: /gallery/
 title: Gallery
 tags: [gallery]
-modified: 12-17-2023
+modified: 01-12-2024
 gallery:
-  - url: C:\Users\Ramin\Pictures\Saved Pictures\Maragheh-5-1.jpg
-    image_path: C:\Users\Ramin\Pictures\Saved Pictures\Maragheh-5.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+  - url: /assets/images/6.jpg
+    image_path: assets/images/6.jpg
+    alt: "placeholder image 6"
+    title: "Image 6 title caption"
   - url: /assets/images/2.jpg
     image_path: /assets/images/2.jpg
     alt: "placeholder image 2"
