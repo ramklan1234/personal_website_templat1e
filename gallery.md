@@ -22,10 +22,10 @@ gallery:
     image_path: /assets/images/4.jpg
     alt: "placeholder image 4"
     title: "Image 4 title caption"
-  - url: /assets/images/5.jpg
-    image_path: /assets/images/5.jpg
-    alt: "placeholder image 5"
-    title: "Image 5 title caption"    
+  - url: /assets/images/F14-Tomcat.jpg
+    image_path: /assets/images/F14-Tomcat.jpg
+    alt: "placeholder image F14-Tomcat"
+    title: "Image F14-Tomcat title caption"    
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
