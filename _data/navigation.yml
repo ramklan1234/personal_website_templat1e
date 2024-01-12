@@ -15,8 +15,8 @@ main:
     url: /gallery/
   - title: "Blog"
     url: /blog/
-  - title: /_posts/2024-9-1-Post-MyCity.md/
-    url: "_posts/2024-9-1-Post-MyCity.md"
+  - title: /Blog/
+    url: /_posts/2024-09-01-Post-MyCity.md/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
