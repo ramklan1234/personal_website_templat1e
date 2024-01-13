@@ -3,8 +3,8 @@ layout: single
 author_profile: true
 permalink: /my university/
 title: /My university/
-tags: [Studying, courses]
-modified: 12-17-2023
+tags: [Studying]
+modified: 01-17-2024
 comments: false
 ---
 - During the Bachelor of Computer Engineering i study in the Iran University of Sience and Technology. It is one of the best universities of iran. There are about 15 schools about industrial lessons.
