@@ -1,8 +1,8 @@
 ---
 layout: single
 author_profile: true
-permalink: /courses/
-title: Courses
+permalink: /my university/
+title: /My university/
 tags: [Studying, courses]
 modified: 12-17-2023
 comments: false
