@@ -1,7 +1,9 @@
 ---
 layout: posts
-title: شهر من
+title: مایکلس
 ---
+
+
 - Actually, I was born in Maragheh. Maragheh is one of the cities in 
 - the East Azerbaijan province.The population of Maragheh is about 
 - 250000 .It is nearly a big city.The weather of the Maragheh is so   
@@ -11,5 +13,3 @@ title: شهر من
 - This feature helps to the farmers to irrigate their farms during the summer.Maragheh is also
 - a historical city.During the govenmentof "Hellakukhan",Maragheh was the capital of Iran.
 - Since that time, Maragheh is famous for it's observatory.
-
-# this is a header
